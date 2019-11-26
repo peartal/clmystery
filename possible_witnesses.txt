@@ -2,3 +2,6 @@ Annabel Sun	F	26	Hart Place, line 40
 
 Annabel Church	F	38	Buckingham Place, line 179
 
+
+Makerss-MacBook-Pro:streets student$ sed '179!d' buckingham_place
+SEE INTERVIEW #699607
